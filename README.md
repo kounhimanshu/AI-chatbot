@@ -1,4 +1,4 @@
-Download: [ChatBot.exe] (https://github.com/kounhimanshu/AI-chatbot/releases/download/v0.1/ChatBot.exe)
+Download: [ChatBot.exe](https://github.com/kounhimanshu/AI-chatbot/releases/download/v0.1/ChatBot.exe)
 
 This is an AI chatbot 
 
